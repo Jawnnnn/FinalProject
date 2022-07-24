@@ -1,0 +1,74 @@
+*{
+
+
+	margin: 0;
+	padding: 0;
+}
+body{
+
+	background: #ddd;
+
+}
+.wrapper{
+	width: 1170px;
+	margin: 0 auto;
+}
+header{
+	height: 100px;
+	background: #E7F6F2;
+	width: 100%;
+	z-index: 12;
+	position: fixed;
+}
+
+.logo{
+	width: 15%;
+	float: left;
+	line-height: 100px;
+}
+.logo a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: bignoodletitling;
+	color: #2C3333;
+	letter-spacing: 5px;
+}
+
+nav{
+
+	float: right;
+	line-height: 100px;
+}
+nav a{
+	text-decoration: none;
+	font-family: Consolas;
+	letter-spacing: 0;
+	font-size: 20px;
+	margin: 0 10px;
+	color: black;	
+}
+ .content-contact {
+	position: relative;
+	left: 350px;
+	padding-top: 75px;
+}
+ .content-contact h2{
+	font-family:  Segoe UI;
+	padding-top: 150px;
+	font-size: 35px;
+
+}
+.content-contact p{
+ font-family: sans-serif;
+ font-size: 15px;
+}
+.info{
+	padding-top: 20pt;
+	opacity: 80%;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    border-radius: 5px;
+    position: relative;
+    left: 35%;
+    bottom: 160px;
+}
