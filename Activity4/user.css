@@ -1,0 +1,79 @@
+body{
+            background-image: url("image.png");
+        }
+        h2{
+            text-decoration: underline;
+    background-color: #F9EBC8;
+    font-size: xx-large;
+    font-family: Gill Sans;
+    font-stretch: semi-expanded;
+    font-kerning: normal;
+    animation: alternate-reverse;
+    opacity: 70%;
+    text-align: center;
+        }
+                h3{
+    
+    background-color: #F9EBC8;
+    font-size: x-large;
+    font-family: Gill Sans;
+    font-stretch: semi-expanded;
+    font-kerning: normal;
+    animation: alternate-reverse;
+    opacity: 70%;
+    text-align: center;
+        }
+        h1{
+            opacity: 70%;
+                    background-color: rgb(233, 221, 116);
+
+        }
+        h6{
+            background-color: #789395;
+        }
+        button{
+            background-color: #FCF69C;
+            margin-left: 50pt;
+            position: relative;
+            top: 30px;
+        }
+
+    
+        button:hover{
+            background-color: yellow; transform: scale(1.09);
+        }
+        label{
+            background-color: #F9EBC8;
+               opacity: 80%;
+                padding-left: 10pt;
+                padding-right: 10pt;
+                  border-radius: 5px;
+                      position: relative;
+                        left: 31%;
+                        bottom: 140px;
+        }
+        input{
+               opacity: 80%;
+                padding-left: 10pt;
+                padding-right: 10pt;
+                  border-radius: 5px;
+                      position: relative;
+                        left: 45%;
+                        bottom: 160px;
+        }
+        .prof{
+                                  position: relative;
+                        left: 80%;
+       bottom: 220px;
+        }
+p{
+                background-color:#789395;
+
+            padding-left: 21pt;
+            padding-right: 21pt;
+            margin-left: 100pt;
+            width: 80%;
+            align-content: center;
+            position: relative;
+            bottom: 30px;
+            border-radius: 5px;
